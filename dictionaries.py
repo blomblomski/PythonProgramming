@@ -1,0 +1,11 @@
+a = dict(A=1, Z=-1)
+print(a)
+b = {'A': 1, 'Z': -1}
+print(b)
+c = dict(zip(['A', 'Z'], [1, -1]))
+print(c)
+d = dict([('A', 1), ('Z', -1)])
+e = dict({'Z': -1, 'A': 1})
+print(d)
+print(e)
+print(a == b == c == d == e)

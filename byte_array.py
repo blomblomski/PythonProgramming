@@ -1,0 +1,6 @@
+print(bytearray())
+print(bytearray(10))
+print(bytearray(range(5)))
+name = bytearray(b'Lina')
+name.replace(b'L', b'l')
+print(name)
