@@ -24,4 +24,9 @@ dictionaries.
   * Set Types
   * Strings
   * Tuple
+  
+  ## Iterating & making decisions 
+  
+  * Conditional Programming 
+    * Error Alert
     
