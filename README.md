@@ -29,4 +29,8 @@ dictionaries.
   
   * Conditional Programming 
     * Error Alert
+    * Ternary
+   * Looping
+    * For loop 
+    * For loop range
     
