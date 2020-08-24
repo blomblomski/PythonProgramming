@@ -31,7 +31,7 @@ dictionaries.
     * Error Alert
     * Ternary
    * Looping
-  * For loop 
+    * For loop 
     * For loop range
     * For loop sequence
     * For loop multiple sequence
