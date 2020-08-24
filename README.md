@@ -31,9 +31,12 @@ dictionaries.
     * Error Alert
     * Ternary
    * Looping
-    * For loop 
-    * For loop range
-    * For loop sequence
-    * For loop multiple sequence
-    * While loop
+        * For loop 
+            * Range
+            * Sequence
+            * Multiple sequence
+        * While loop
+            * Binary
+            * Multiple sequence
+        * Discount
     
