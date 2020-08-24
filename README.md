@@ -42,8 +42,14 @@ dictionaries.
             * Multiple sequence
         * Discount
         * Any
+       
    * Prime Numbers
         * Basic
         * With else
    * Switch
+        * Coupons
+        * Coupons Dictionary
+   * Infinite
+   * Compress
+   * Permutations
     
