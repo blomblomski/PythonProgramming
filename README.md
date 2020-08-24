@@ -33,4 +33,7 @@ dictionaries.
    * Looping
     * For loop 
     * For loop range
+    * For loop sequence
+    * For loop multiple sequence
+    * While loop
     
