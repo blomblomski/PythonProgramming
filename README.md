@@ -35,8 +35,15 @@ dictionaries.
             * Range
             * Sequence
             * Multiple sequence
+            * No Else
+            * With Else
         * While loop
             * Binary
             * Multiple sequence
         * Discount
+        * Any
+   * Prime Numbers
+        * Basic
+        * With else
+   * Switch
     
