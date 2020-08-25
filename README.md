@@ -52,4 +52,13 @@ dictionaries.
    * Infinite
    * Compress
    * Permutations
+
+## Functions 
+The building blocks of code.
+
+* Scope
+    * Scope level 1
+    * Scope level 2
+    * Scope level 2 nonlocal
+    * Scope level 2 global
     
